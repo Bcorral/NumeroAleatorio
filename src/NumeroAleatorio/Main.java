@@ -34,6 +34,7 @@ public class Main {
 		    }while(numero != respuesta);
 		    	
 		    System.out.println("fin");
+		    System.out.println("commit2");
 		    
 		  }
 		
